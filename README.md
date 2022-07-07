@@ -1,6 +1,6 @@
-### Hi there 👋
-# This page has been visited:
-![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
+
+### This page has been visited:
+![Visitor Count](https://profile-counter.glitch.me/willchen0207/count.svg)
 
 <!--
 **WillChen0207/willchen0207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
