@@ -6,7 +6,7 @@
  - 🤪 Maybe someday I'll be able to develop some inspiring programs, but who knows lol
  - 🤔 Uhhhhh...
 ### Hello my  ![Visitor Count](https://profile-counter.glitch.me/willchen0207/count.svg)  visitor
-# 💻Tech stack (Used or learing):
+# 💻Tech stack (Used or learning):
 ![description](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![descripiton](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![description](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
