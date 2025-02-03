@@ -1,10 +1,7 @@
 # ✨About me:
 > "Value yourself first lest you be deemed worthless."
- - 🔭 I’m currently studying in Zhejiang University of Technology
- - 🌱 I’m currently learning Java, Python, Vue, etc.
- - 📫 Email this address to reach me: 2609846452@qq.com
- - 🤪 Maybe someday I'll be able to develop some inspiring programs, but who knows lol
- - 🤔 Uhhhhh...
+ - BEng in Computer Science & Technology (normal) | ZJUT
+ - MA in Educational Leadership | UoM
 ### Hello my  ![Visitor Count](https://profile-counter.glitch.me/willchen0207/count.svg)  visitor
 # 💻Tech stack (Used or learning):
 ![description](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
