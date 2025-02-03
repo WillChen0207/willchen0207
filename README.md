@@ -11,8 +11,6 @@
 ![description](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![description](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![description](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![description](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![descripiton](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ### Most used languages in my programs:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willchen0207)](https://github.com/willchen0207/github-readme-stats)
 # 📊My Github stats:
